@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+    
+  },
+  "keywords": [
+    "new",
+    "node"
+  ],
+  "author": "Anish kumar",
+  "license": "ISC",
+  "description": ""
+}
